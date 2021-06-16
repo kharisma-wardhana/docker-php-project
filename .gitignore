@@ -1,0 +1,11 @@
+.devcontainer
+.env
+
+config/vhosts/*.conf
+config/php/*.ini
+
+data/mysql/*
+
+logs/apache2/*
+
+src/*
